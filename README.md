@@ -3,7 +3,7 @@
 Welcome to Dropbox 2.0 (Pandora's Box), a project developed using [Next.js](https://nextjs.org/). This application is a clone of the renowned file hosting service, [Dropbox](https://www.dropbox.com/), designed to provide efficient file management capabilities.
  The project is deployed on [Vercel](https://vercel.com/).
 
-- *[checkout website](https://pandoras-box-pragatialiani-pragati-alianis-projects.vercel.app/)*
+- *[checkout website](https://pandoras-box-beta.vercel.app/)*
 
 ### Features
 
