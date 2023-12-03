@@ -15,7 +15,7 @@ Feel free to explore my other [projects](https://github.com/pragatiailani?tab=re
 
 #### About the Developer
 
-This project is maintained by Pragati Aliani, a passionate developer dedicated to creating innovative solutions.
+This project is maintained by **Pragati Aliani**, a passionate developer dedicated to creating innovative solutions.
 
 For any inquiries or contributions, please reach out via [email](mailto:pragatialiani2003@email.com) or [GitHub](https://github.com/pragatiailani).
 
