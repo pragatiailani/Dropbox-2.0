@@ -39,7 +39,7 @@ export default function Home() {
 
             <p className="text-center font-bold text-xl pt-5">Disclaimer</p>
             <p className="text-center font-light p-2">
-                This is a Dropbox clone made for educational purposes only. I'm
+                This is a Dropbox clone made for educational purposes only. I&apos;m
                 not affilated with Dropbox or any of its susbsidiaries in any
                 form.
             </p>
