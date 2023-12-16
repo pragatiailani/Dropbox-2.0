@@ -4,7 +4,7 @@ Welcome to Dropbox 2.0 (Pandora's Box), a project developed using [Next.js](http
 - *note: The project is under development.*
  The project is deployed on [Vercel](https://vercel.com/).
 
-- *[checkout website](https://pandoras-box-pragatialiani-pragati-alianis-projects.vercel.app/)*
+- *[checkout website](https://pandoras-box-beta.vercel.app/)*
 
 ### Features
 
@@ -42,6 +42,6 @@ Feel free to explore my other [projects](https://github.com/pragatiailani?tab=re
 
 This project is maintained by **Pragati Aliani**, a passionate developer dedicated to creating innovative solutions.
 
-For any inquiries or contributions, please reach out via [email](mailto:pragatialiani2003@email.com), [LinkedIn](https://www.linkedin.com/in/pragati-aliani-3810a4223/) or [GitHub](https://github.com/pragatiailani).
+For any inquiries or contributions, please reach out via [email](mailto:pragati.aliani2003@email.com), [LinkedIn](https://www.linkedin.com/in/pragati-aliani/) or [GitHub](https://github.com/pragatiailani).
 
 Thank you for checking out Pandora's Box! 🎁
