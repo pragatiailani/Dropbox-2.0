@@ -41,6 +41,6 @@ Feel free to explore my other [projects](https://github.com/pragatiailani?tab=re
 
 This project is maintained by **Pragati Aliani**, a passionate developer dedicated to creating innovative solutions.
 
-For any inquiries or contributions, please reach out via [email](mailto:pragati.aliani2003@email.com), [LinkedIn](https://www.linkedin.com/in/pragati-aliani/) or [GitHub](https://github.com/pragatiailani).
+For any inquiries or contributions, please reach out via [email](mailto:pragati.aliani2003@email.com), [LinkedIn](https://www.linkedin.com/in/pragati-aliani/), [Twitter](https://twitter.com/Pragati_Aliani) or [GitHub](https://github.com/pragatiailani).
 
 Thank you for checking out Pandora's Box! 🎁
